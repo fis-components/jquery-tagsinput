@@ -1,0 +1,9 @@
+{
+    "name": "jquery-tagsinput",
+    "main": "jquery.tagsinput.js",
+    "repos": "https://github.com/xoxco/jQuery-Tags-Input.git",
+    "version": "v1.3.6",
+    "dependencies": {
+        "jquery": ">=1.6"
+    }
+}
